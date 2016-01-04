@@ -1,0 +1,73 @@
+body {
+  background: grey;
+  font-family: Georgia, "Times New Roman", serif;
+}
+
+h1 {
+  color: indigo;
+  font-size: 2em; 
+}
+
+h2 {
+  color: black;
+  font-size: 1em; 
+}
+
+h3 {
+  color: black;
+  font-size: 1em; 
+}
+
+.wrapper {
+  width: 960px;
+  margin: 0 auto;
+  background: #000;
+}
+
+.col-1 {
+  float: left;
+  width: 21%;
+  background #ccc;
+}
+
+.col-2 {
+  float: left;
+  width: 21%;
+  background #ccc;
+}
+
+.col-3 {
+  float: left;
+  width: 21%;
+  background #ccc;
+}
+
+.col-3 {
+  float: left;
+  width: 21%;
+  background #ccc;
+}
+
+[class*="col-"] {
+  margin-left: 2%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
